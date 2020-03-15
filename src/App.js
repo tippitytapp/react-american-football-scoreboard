@@ -19,7 +19,7 @@ setHomeScore(homeScore +3)
 };
 function awayFieldGoal(){
 setAwayScore(awayScore + 3)
-};
+}; 
 
   return (
     <div className="container">
